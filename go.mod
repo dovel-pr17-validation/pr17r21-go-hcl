@@ -3,11 +3,11 @@ module github.com/hashicorp/hcl/v2
 go 1.25.0
 
 require (
-	github.com/agext/levenshtein v1.2.1
+	github.com/agext/levenshtein v1.2.3
 	github.com/apparentlymart/go-textseg/v15 v15.0.0
 	github.com/apparentlymart/go-textseg/v17 v17.0.1
 	github.com/davecgh/go-spew v1.1.1
-	github.com/go-test/deep v1.0.3
+	github.com/go-test/deep v1.1.2
 	github.com/google/go-cmp v0.6.0
 	github.com/mitchellh/go-wordwrap v1.0.1
 	github.com/spf13/pflag v1.0.2
